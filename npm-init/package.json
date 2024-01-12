@@ -1,0 +1,34 @@
+{
+  "name": "npm-init",
+  "version": "1.0.0",
+  "description": "Es una carpeta para el curso de NPM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianMDS/Curso-NPM.git"
+  },
+  "keywords": [
+    "NPM",
+    "npm",
+    "js",
+    "angular",
+    "node"
+  ],
+  "author": "Cristian Mora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CristianMDS/Curso-NPM/issues"
+  },
+  "homepage": "https://github.com/CristianMDS/Curso-NPM#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.16",
+    "moment": "^2.30.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
